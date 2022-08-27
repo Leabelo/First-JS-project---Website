@@ -1,0 +1,33 @@
+
+
+  .container h3 {
+    margin-top: 64px;
+    text-align: center;
+    font-family: "Henny Penny", cursive;
+    font-size: 60px;  
+    color: #F2CC0F;
+background: #FFFFFF;
+text-shadow: 2px 2px 0 #9453A6, 2px -2px 0 #9453A6, -2px 2px 0 #9453A6, -2px -2px 0 #9453A6, 2px 0px 0 #9453A6, 0px 2px 0 #9453A6, -2px 0px 0 #9453A6, 0px -2px 0 #9453A6;   
+  }
+
+ .container hr {
+    background-color: #9453A6;
+    height: 2px;
+width: 70%;
+    opacity: 1000;
+    margin: 0 auto;
+  }
+ 
+  .image_gallery img{
+    width: 400px;
+    height: 400px;
+    object-fit: cover;
+    margin: 50px;
+    align-items: center;
+  }
+  .image_gallery{
+    align-items: center;
+    justify-content: center;
+    padding: 100px;
+    
+  }

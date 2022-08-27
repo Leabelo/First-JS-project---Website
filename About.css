@@ -1,0 +1,113 @@
+
+ .card{
+    width: 400px;
+    margin: 50px;
+    padding: 30px;
+}
+.card-img{
+    opacity: 0.8;
+}
+.card-title{
+    color:#F2F2F2 ;
+    font-family: 'Pattaya'; 
+    text-shadow:#9453A6 ;
+    font-size: 10px;
+}
+.card-text{
+    color: #F2F2F2;
+   
+
+} 
+
+
+ main .side{
+    padding-top: 170px;
+    padding:170px 24px 24px ;
+    background:  #9453A6; 
+}
+  
+  
+  main .side .box_card{
+    text-align: center;
+    border:1px solid grey;
+    background:#ddd;
+    border-radius: 8px;
+    padding:8px;
+    margin-bottom: 80px;
+  
+  }
+  
+  main .side .box_card img{
+    width:75%;
+    
+    margin-top: -52px;
+    border-radius:8px;
+    border:1px solid grey;
+  }
+  
+  main .side .box_card h3{
+    margin:24px 0;
+  }
+  
+  main h1{
+    text-align: center;
+    max-width:400px;
+    margin:24px auto;
+    border-bottom:2px solid gold;
+    padding-bottom: 32px;
+  
+    color: silver;
+  
+    text-shadow: 1px 3px 0 #969696, 1px 13px 5px #aba8a8;
+       font-family: 'Pattaya';
+    
+  }
+  main{
+    background:#8CBF3F; 
+    
+  }
+  
+  main .col > div{
+    height: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+    background-position: center;
+    border-radius: 30px;
+    transition: 800ms;
+    
+  }
+  
+  main .col > div:hover{
+    transform: scale(1.1,1.1);
+  }
+  
+  main .col p{
+    color: #0D0D0D;
+    margin: 10px;
+  
+    text-shadow: 1px 3px 0 #969696, 1px 13px 5px #aba8a8;
+  }
+  
+  main .col .box1{
+    background-image: linear-gradient(rgba(255,255,255,0.6), rgba(255,255,255,0.5)), url(images/pic16.jpg);
+    
+  }
+  
+  main .col .box2{
+    background-image: linear-gradient(rgba(255,255,255,0.6), rgba(255,255,255,0.5)), url(images/Endymion.jpg);
+  }
+  main .col .box3{
+   background-image: linear-gradient(rgba(255,255,255,0.6), rgba(255,255,255,0.5)), url(images/pic29.jpg);
+  }
+  main .col .box4{
+   background-image: linear-gradient(rgba(255,255,255,0.6), rgba(255,255,255,0.5)), url(images/pic13.jpg);
+  }
+  
+  main .col .box5{
+   background-image: linear-gradient(rgba(255,255,255,0.6), rgba(255,255,255,0.5)), url(images/pic29.jpg);
+  }
+  main .col .box6{
+   background-image: linear-gradient(rgba(255,255,255,0.6), rgba(255,255,255,0.5)), url(images/pic27.jpg.jpg);
+  } 
